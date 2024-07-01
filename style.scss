@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    a{
+        text-decoration: none;
+    }
+}
+.top{
+    background:#088f33;
+    color: #fff;
+}
+.bg-body-tertiary {
+    background: darkgreen !important;
+
+}
+.navbar-brand{
+    position: absolute;
+    top: -40px;
+    img{
+        border: 3px solid orange;
+    }
+}
